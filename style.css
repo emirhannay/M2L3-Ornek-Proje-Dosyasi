@@ -1,0 +1,20 @@
+/* Bu, sayfanın genel stilini belirler. Yani body içinde yer alan tüm içerikler
+(paragraflar, başlıklar, listeler vs.) bu stil ayarlarını varsayılan olarak alır. */
+body {
+	font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; /* Yazı tipi ailesi */
+    font-size: 11px; 
+    background-color: #87d674; /* Web sayfasının arka plan rengi */
+    color: #333; /* Metin rengi */
+    }
+
+/*h1 etiketi body'nin ayarlarını miras almaz, ,
+çünkü kendisi için özel (font-size, font-family, color) değerler zaten verilmiş. */
+h1 {
+    color: #00a800; /* Başlık rengi */
+    font-size: 24pt; /* Başlık yazı tipi boyutu */
+    font-family: Georgia, Times, serif; /* Başlık için kullanılan yazı tipi ailesi */
+}
+
+/*h1 etiketi body içindedir ama kendi stilini override (geçersiz kılar)
+ çünkü CSS’te özel olan genel olana baskındır. */
+

@@ -1,0 +1,23 @@
+/* Linkler için pembe alt çizgi */
+a {
+  text-decoration: underline;
+  text-decoration-color: #FD98FB;  /* Pembe */
+  color: #333;  /* Metin rengi */
+  font-family: 'Inter', sans-serif;
+}
+
+/* Paragraf içinde yeşil alt çizgi */
+.underline-green {
+  text-decoration: underline;
+  text-decoration-color: #D6FF6B;  /* Yeşil */
+  color: #000;
+  font-size: 16px;
+}
+
+/* Üstü çizili ve mavi çizgili başlık */
+h2 {
+  text-decoration: line-through;
+  text-decoration-color: #5988FF;  /* Mavi */
+  color: #444;
+  font-family: Georgia, serif;
+}

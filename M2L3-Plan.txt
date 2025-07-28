@@ -1,0 +1,93 @@
+1.Ödev kontrolü + Giriş(00:00-15:00)
+Öğrencileri selamlayın ve onlara haftalarının nasıl geçtiğini sorun. 
+Ödevi özetleyin.
+Geçen dersten discord botlarını tamamlayamayan öğrencilerden göstermeleri istenir. Geliştirip geliştirmediği sorulur.
+
+Sonraki 10 derste Python'da web siteleri oluşturacağız!
+*HTML ve CSS'nin ne olduğunu öğreneceğiz ve ardından Flask kütüphanesini ve neden gerekli olduğunu öğreneceğiz!
+*5 adede kadar farklı web sayfası oluşturacağız ve tüm bunlar GitHub portföylerimizde görünecek!
+
+Bugünkü derste:
+1-Front-end ve back-end hakkında bilgi edinme, aralarındaki farkları keşfetme
+2-HTML ve CSS hakkında bilgi edinme
+3-Kendi web sayfalarımızı tasarlama
+4-GitHub hesabını VScode'a eklemek
+
+Dersin sonunda öğrenciler aşağıdaki becerilere sahip olacaksınız:
+
+1-Temel HTML etiketlerini bilme
+2-Bir CSS dosyasını dahil etmeyi bilme
+3-HTML ve CSS kullanarak bir sayfa oluşturma
+4-GitHub hesabını IDE'ye entegre etme
+Bu derste kazanılan bilgi, size kendi web sitelerinizi tasarlama imkanı verecek.
+
+**Teknoloji bağımlılığıyla ilgili ana sorun,
+Bir kişinin belirli teknolojilerin ve cihazların kullanımına bağımlı hale gelmesidir.
+Bu durum, kişinin fonksiyonel yeteneklerini önemli ölçüde köreltebilir ve yaşam kalitesi üzerinde ciddi olumsuz etkilere neden olabilir.
+Bu tür bağımlılıklar bireysel düzeyde, bir organizasyon düzeyinde veya toplumun genelinde kendini gösterebilir.
+
+!!!!!!!!Öğrencilerin bu sorunu bildiklerini sormalısınız. Bu sorunun ne kadar önemli olduğunu düşünüyorlar mı?
+
+
+
+
+**En yaygın teknoloji bağımlılıklarının bir listesi:
+Sosyal medya ve mesajlaşma: İnsanlar sosyal medyada ve mesajlaşma uygulamalarında çok fazla zaman harcayarak gerçek dünyada geçirdikleri zamanı azaltabilirler. Dahası, bu durum haber ve mesaj güncellemelerine bağımlılığa yol açar.
+
+Akıllı telefonlar ve tabletler: Akıllı telefonlar ve tabletler insanlar için dünyayla iletişim kurmanın temel yolu haline gelebilir ve insanlar bildirimleri sürekli kontrol etme, retweet yapma ve sosyal medya ve mesajlaşma uygulamalarında gezinme konusunda bağımlı hale gelebilirler.
+
+Oyunlar ve çevrimiçi eğlence: Oyunlar ve çevrimiçi eğlence bağımlılık yapabilir, bu da insanların gerçek hayat yerine sanal dünyada çok fazla zaman harcamalarına neden olabilir.
+İnternet alışverişi ve çevrimiçi alışveriş: İnsanlar duygusal ihtiyaçlarını karşılamak için çevrimiçi alışverişe bağımlı hale gelebilirler.
+
+!!!!!!!!!Öğrencilerden düşünmelerini isteyin: Teknoloji bağımlılığı olan insanlara nasıl yardımcı olabilirler?
+
+Teknoloji kullanımı dışında çeşitli ilgi alanları ve aktiviteler edinin.
+Sosyal medya ve mesajlaşma uygulamalarına olan bağımlılığınızı azaltmak için çevrenizle bağlantı kurmanın yeni yollarını arayın.
+Mümkünse, bilgisayar başında geçirdiğiniz çalışma süresini sınırlayın ve mola verin. Bu, gözlerinizdeki stresi azaltacak ve bir sonraki çalışma oturumuna geçmeden zihninizin boşalmasına yardımcı olacaktır.
+Mümkün olduğunda, teknolojiden uzak geçireceğiniz zaman dilimleri ayarlayarak rahatlamak ve gevşemek için fırsat yaratın.
+Teknoloji daha bilinçli kullanmaya çalışın. Arada bir kendinize şu soruyu sorun: Teknolojiye çok mu bağımlı hale geliyorum?
+,İnternet ve cihazlarınızda geçirdiğiniz zamanı sınırlayın.
+
+2-TEORİ ( 15:00 - 25:00 )
+HTML NEDİR CSS NEDİR ÖN UÇ NEDİR ARKA UÇ NEDİR?
+
+3-HTML ÜZERİNDE DERİNLEŞELİM (25:00-45:00)
+Öğrencilere VS Code'da bir index.html dosyası nasıl oluşturulacağını gösterin.
+HTML sayfalarının etiketlerden oluştuğu fikrini tanıtın.
+Öğrenciler, platformda gerekli etiketler hakkında ipuçları bulacaklar. (learndeki 2.slayt)
+Öğrencilere platformdaki örneği çalıştırmalarını ve sayfayı nasıl test edeceklerini gösterin (tarayıcıda açılmalıdır).
+Öğrencilere benzer bir sayfa tasarlamalarını isteyin.
+
+4-CSS ÜZERİNDE DERİNLEŞELİM (45:00-60:00)
+Öğrencilere projede nasıl bir style.css dosyası oluşturacaklarını gösterin.
+indexwcss.html üzerinden web sitesini anlatın. index.html'e göre nasıl renklendiğini vs gösterin.
+
+Öğrencilere <h2> etiketinin rengini değiştirmelerini isteyin.
+Öğrencileri kendi stillerini denemeleri konusunda teşvik edin! Deneyimli öğrenciler varsa, genellikle hangi stilleri kullandıklarını sormalarını isteyin.
+
+
+5-VS Code ile Giti bağla. (60:00-75:00)
+
+6-DERSİ ÖZETLE ÖDEV VER.
+
+Kodlandin stillerini yapsınlar. Slayt 4 ödev olacak.
+Kodland.html kodland.css
+
+Derste ele alınan bilgileri gözden geçirmek için birkaç soru sorun. Sessiz öğrencileri de dahil edin; her öğrencinin görüşünü sorun.
+
+HTML nedir?
+HTML, CSS, Python - bunlardan hangileri programlama dilleridir?
+CSS'ye neden ihtiyaç duyarız?
+GitHub ve git aynı şey midir?
+->
+🔹 Git nedir?
+Git, bilgisayarımızda yaptığımız kod değişikliklerini kaydeden bir sistemdir.
+🗂️ “Kodlarımızın geçmişini tutan bir defter” gibi düşünebiliriz.
+
+🔹 GitHub nedir?
+GitHub, Git ile kaydettiğimiz bu kodları internette saklamamızı sağlar.
+☁️ “Kodlarımız için bir internet klasörü” gibidir.
+
+
+
+
